@@ -32,4 +32,4 @@ Cada repositorio puede contar con su propia licencia. Revisa el archivo `LICENSE
 
 ---
 
-**ECONSA** - Soluciones tecnológicas orientadas a la eficiencia y la innovación.
+**ECONSA** - Soluciones tecnológicas.
